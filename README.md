@@ -6,8 +6,8 @@ Chat app in c# to demonstrate encryption
  - Click on Settings icon
  #### Server
  - Provide IP address (127.0.0.1 if not connected to any internet) and a port number.
- -Click Start and leave it.
+ - Click Start and leave it.
  #### Client
  - Provide IP address (127.0.0.1 if not connected to any internet) and a port number.
- -Click Connect and then Back.
+ - Click Connect and then Back.
   
